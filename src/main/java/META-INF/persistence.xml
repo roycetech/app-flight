@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.1" xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
+    <persistence-unit name="playground-jpa">
+        <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider> 
+        <jta-data-source>jdbc/airline</jta-data-source>
+        <class>ph.rye.flight.model.Passenger</class>
+        <class>ph.rye.flight.model.Flight</class>
+        <class>ph.rye.flight.model.Airplane</class>
+        <class>ph.rye.flight.model.Pilot</class>      
+        <properties> 
+<!--           <property name="eclipselink.logging.level" value="FINE"/>--> 
+           <property name="eclipselink.ddl-generation" value="drop-and-create-tables"/> 
+        </properties>
+    
+    </persistence-unit>
+</persistence>
