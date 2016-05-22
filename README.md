@@ -1,7 +1,7 @@
 Learn to code Flight Application.
 =================================
 
-Front-End Features:
+Front-End Technologies:
 -------------------
 - [Servlets](https://docs.oracle.com/javaee/7/tutorial/servlets.htm#BNAFD)
 - [JSP/JSTL, Expression Language](http://docs.oracle.com/javaee/5/tutorial/doc/bnagx.html)
@@ -12,7 +12,7 @@ Front-End Features:
 - jQuery UI Date/[Time Addon](http://trentrichardson.com/examples/timepicker/)
 - [Html5](http://www.w3.org/TR/html5/)
 
-Back-End Features:
+Back-End Technologies:
 -------------------
 * [Java EE 7](https://docs.oracle.com/javaee/7/tutorial/)
 * [Glassfish 4](https://glassfish.java.net)
@@ -24,7 +24,7 @@ Back-End Features:
   - JPQL Criteria API
   - EclipseLink 
   - JAX-B
-- Jax-RS Webservice
+- JAX-RS Webservice
 
 Custom Codes:
 -------------
