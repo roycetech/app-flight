@@ -1,4 +1,3 @@
-# app-flight #
 Learn to code Flight Application.
 =================================
 
@@ -13,7 +12,8 @@ Front-End Features:
 - jQuery UI Date/Time
 - Html5
 
-** Back-End Features: **
+Back-End Features:
+-------------------
 * Java EE 7
 * Glassfish 4
 * Java Derby
@@ -26,14 +26,12 @@ Front-End Features:
   - JAX-B
 - Jax-RS Webservice
 
-**Custom Codes:**
+Custom Codes:
+-----------------
 - Delete Confirmation
 - Dirty Form Confirmation
 - Confirmation Message
 - Auto Populate UI with Test Data
 
-**Pending Features:**
-- [] Entity View/Update Detail
-
-
-// Markups aren't working as expected.
+Pending Features:
+- [ ] Entity View/Update Detail
