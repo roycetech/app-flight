@@ -3,19 +3,19 @@ Learn to code Flight Application.
 
 Front-End Features:
 -------------------
-- Servlets
-- JSP/JSTL, Expression Language
+- [Servlets](https://docs.oracle.com/javaee/7/tutorial/servlets.htm#BNAFD)
+- [JSP/JSTL, Expression Language](http://docs.oracle.com/javaee/5/tutorial/doc/bnagx.html)
 - [Servlet Action Framework](#) \(Custom\)
-- Twitter Bootstrap 3
-- Bootstrap Validation
-- jQuery 2
-- jQuery UI Date/Time
-- Html5
+- [Twitter Bootstrap](http://getbootstrap.com/components/) 3
+- [Bootstrap Validation](Bootstrap validation)
+- [jQuery 2](http://jquery.com)
+- jQuery UI Date/[Time Addon](http://trentrichardson.com/examples/timepicker/)
+- [Html5](http://www.w3.org/TR/html5/)
 
 Back-End Features:
 -------------------
-* Java EE 7
-* Glassfish 4
+* [Java EE 7](https://docs.oracle.com/javaee/7/tutorial/)
+* [Glassfish 4](https://glassfish.java.net)
 * Java Derby
 * EJB
   - Stateless Session Bean
@@ -27,11 +27,14 @@ Back-End Features:
 - Jax-RS Webservice
 
 Custom Codes:
------------------
+-------------
 - Delete Confirmation
 - Dirty Form Confirmation
 - Confirmation Message
 - Auto Populate UI with Test Data
 
 Pending Features:
+-----------------
 - [ ] Entity View/Update Detail
+- [ ] Assign Passenger to Flight
+- [ ] Add Flight to Passenger
