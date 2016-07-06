@@ -1,5 +1,5 @@
-Learn to code Flight Application.
-=================================
+Flight Application.
+===================
 
 Front-End Technologies:
 -------------------
